@@ -1,6 +1,6 @@
 export const BRAND = {
   name: "Fix and Glaze",
-  tagline: "Repair. Replace. Refresh.",
+  tagline: "Repair. Replace. Refresh. [TESTING]",
   description: "Professional glass repair, installation, and glazing services for homes and businesses",
   phone: "0432 800 802",
   email: "francis.antonio@rocketmail.com",
