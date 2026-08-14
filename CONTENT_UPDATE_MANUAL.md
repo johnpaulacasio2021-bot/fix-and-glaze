@@ -134,7 +134,7 @@ All files use **JSON** format. JSON is just structured text with a specific patt
     {
       "id": "project-001",
       "slug": "residential-window-replacement-sydney",
-      "title": "Residential Window Replacement — Sydney",
+      "title": "Residential Window Replacement — Canberra",
       "serviceType": "window-installation",
       "location": "Bondi, NSW",
       "clientType": "Residential",

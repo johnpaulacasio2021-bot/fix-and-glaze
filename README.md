@@ -73,7 +73,7 @@ Create `.env.local` with the following:
 NEXT_PUBLIC_SITE_URL=https://fixandglaze.com.au
 NEXT_PUBLIC_PHONE=0432 800 802
 NEXT_PUBLIC_EMAIL=francis.antonio@rocketmail.com
-NEXT_PUBLIC_SERVICE_AREA=Sydney Metropolitan Area
+NEXT_PUBLIC_SERVICE_AREA=Canberra Region
 
 # Email (SMTP)
 SMTP_HOST=smtp.gmail.com
@@ -172,7 +172,7 @@ Configured in `tailwind.config.ts`
 
 - **Phone:** 0432 800 802
 - **Email:** francis.antonio@rocketmail.com
-- **Service Area:** Sydney Metropolitan Area
+- **Service Area:** Canberra Region
 
 ## 📄 License
 

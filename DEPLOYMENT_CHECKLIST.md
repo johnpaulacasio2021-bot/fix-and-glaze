@@ -68,7 +68,7 @@ git push -u origin main
    SMTP_TO=francis.antonio@rocketmail.com
    NEXT_PUBLIC_PHONE=0432 800 802
    NEXT_PUBLIC_EMAIL=francis.antonio@rocketmail.com
-   NEXT_PUBLIC_SERVICE_AREA=Sydney Metropolitan Area
+   NEXT_PUBLIC_SERVICE_AREA=Canberra Region
    NEXT_PUBLIC_SITE_URL=[Vercel domain - will update after]
    ```
 7. **Click:** "Deploy"

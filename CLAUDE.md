@@ -178,7 +178,7 @@ Copy `.env.example` to `.env.local` and fill in:
 NEXT_PUBLIC_SITE_URL=https://fixandglaze.com.au  # Will update after domain
 NEXT_PUBLIC_PHONE=0432 800 802
 NEXT_PUBLIC_EMAIL=francis.antonio@rocketmail.com
-NEXT_PUBLIC_SERVICE_AREA="Sydney Metropolitan Area"
+NEXT_PUBLIC_SERVICE_AREA="Canberra Region"
 
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587

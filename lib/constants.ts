@@ -4,7 +4,7 @@ export const BRAND = {
   description: "Professional glass repair, installation, and glazing services for homes and businesses",
   phone: "0432 800 802",
   email: "francis.antonio@rocketmail.com",
-  serviceArea: "Sydney Metropolitan Area",
+  serviceArea: "Canberra Region",
   hours: {
     weekday: "7:00 AM – 6:00 PM",
     saturday: "8:00 AM – 4:00 PM",

@@ -187,7 +187,7 @@ export default function ContactForm({ title, subtitle }: ContactFormProps) {
             {...register("location")}
             type="text"
             className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:border-cyan-600"
-            placeholder="Sydney"
+            placeholder="Canberra"
           />
           {errors.location && (
             <p className="text-red-600 text-sm mt-1">{errors.location.message}</p>
