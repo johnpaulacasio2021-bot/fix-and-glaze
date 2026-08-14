@@ -1,0 +1,153 @@
+{
+  "services": [
+    {
+      "id": "window-installation",
+      "title": "Window Installation & Replacement",
+      "shortDescription": "Upgrade your home with energy-efficient windows in aluminium, uPVC, or timber.",
+      "fullDescription": "New windows are one of the most impactful upgrades you can make to a property. They improve energy efficiency, boost security, reduce outside noise, and dramatically enhance kerb appeal. Fix and Glaze supplies and installs quality window frames in three primary materials.",
+      "icon": "window",
+      "materials": ["uPVC", "Aluminium", "Timber"],
+      "glassTypes": ["Clear float glass", "Double-glazed units", "Toughened safety glass"],
+      "idealFor": "New builds, renovations, investment properties, energy upgrades, and heritage restorations",
+      "benefits": [
+        "Improved energy efficiency",
+        "Enhanced security",
+        "Noise reduction",
+        "Increased property value",
+        "Better aesthetics"
+      ],
+      "whatsIncluded": [
+        "Free site measure and quote",
+        "Supply and installation of frames and glass",
+        "Removal and disposal of existing windows",
+        "Weatherproofing, sealing, and finishing",
+        "Post-installation clean-up"
+      ]
+    },
+    {
+      "id": "glass-installation",
+      "title": "Glass Installation & Glazing",
+      "shortDescription": "Professional glass panel installation for windows, doors, shower screens, and more.",
+      "fullDescription": "Glass is at the heart of everything we do. Fix and Glaze installs glass panels in a wide variety of applications, using the right glass type for each job — from standard float glass to toughened safety glass, frosted glass, and more.",
+      "icon": "glass",
+      "materials": ["Clear float glass", "Toughened safety glass", "Laminated glass", "Frosted/obscure glass", "Double-glazed units", "Wired glass", "Fire-rated glass"],
+      "applications": [
+        "Residential window panes (single and double-glazed)",
+        "Shower screens and enclosures (frameless, semi-frameless, framed)",
+        "Glass doors (internal and external)",
+        "Partition walls and office glass (commercial interiors)",
+        "Glass splashbacks (kitchens and bathrooms)",
+        "Shopfront and commercial facades"
+      ],
+      "idealFor": "Residential renovations, commercial fit-outs, bathroom upgrades, office partitions",
+      "benefits": [
+        "Precise measurement and fitting",
+        "Quality materials for durability",
+        "Professional installation standards",
+        "Compliant with safety codes",
+        "Wide range of glass options"
+      ],
+      "whatsIncluded": [
+        "Professional assessment and advice",
+        "Precise measurement",
+        "Supply of quality glass",
+        "Expert installation",
+        "Sealing and finishing"
+      ]
+    },
+    {
+      "id": "door-installation",
+      "title": "Door Installation & Fitting",
+      "shortDescription": "Expert door installation for interior and exterior applications, residential and commercial.",
+      "fullDescription": "A well-fitted door does more than just open and close — it contributes to your property's security, energy efficiency, acoustic performance, and visual appeal. Fix and Glaze installs interior and exterior doors across all frame types.",
+      "icon": "door",
+      "doorTypes": [
+        "Hinged entry doors (single and double)",
+        "Sliding glass doors (bifold, stacking, single-track)",
+        "Screen and security doors",
+        "Internal room doors",
+        "Commercial glass doors (frameless pivot, swing, automatic)",
+        "Shopfront doors (aluminium framed, roller, security)"
+      ],
+      "materials": ["Timber", "Aluminium", "Composite", "uPVC"],
+      "idealFor": "Home renovations, new builds, commercial fit-outs, property upgrades",
+      "benefits": [
+        "Smooth operation",
+        "Enhanced security",
+        "Improved energy efficiency",
+        "Professional finish",
+        "Durability"
+      ],
+      "whatsIncluded": [
+        "Accurate opening measurement",
+        "Door and hardware sourcing",
+        "Professional installation and fitting",
+        "Hardware adjustment and testing",
+        "Sealing and finishing"
+      ]
+    },
+    {
+      "id": "glass-repair",
+      "title": "Glass Repair & Replacement",
+      "shortDescription": "Fast, professional glass repair for windows, doors, and more. Emergency service available.",
+      "fullDescription": "Cracked, chipped, or shattered glass is not just an eyesore — it's a safety and security risk. Fix and Glaze responds promptly to glass repair requests for both residential and commercial properties, replacing damaged panes quickly and cost-effectively.",
+      "icon": "wrench",
+      "commonRepairs": [
+        "Cracked or smashed window panes",
+        "Broken sliding door glass",
+        "Damaged shower screen panels",
+        "Broken glass panels in doors and frames",
+        "Fogged or failed double-glazed units",
+        "Commercial shopfront glass damage"
+      ],
+      "emergency": true,
+      "emergencyResponse": "We understand that some glass damage can't wait. For urgent situations — break-ins, storm damage, or accidental breakage — contact us immediately. We'll work to get a technician to your property as quickly as possible.",
+      "idealFor": "Emergency repairs, storm damage, accidental breakage, wear and tear",
+      "benefits": [
+        "Fast response time",
+        "Same-day repairs available",
+        "Secure temporary solutions",
+        "Cost-effective",
+        "Professional finish"
+      ],
+      "whatsIncluded": [
+        "Emergency response (where available)",
+        "Damage assessment",
+        "Glass replacement",
+        "Temporary board-up if needed",
+        "Clean-up"
+      ]
+    },
+    {
+      "id": "commercial-glazing",
+      "title": "Commercial Glazing",
+      "shortDescription": "Professional commercial glazing solutions for businesses of all sizes.",
+      "fullDescription": "Fix and Glaze works with building managers, developers, retailers, and property investors to deliver professional commercial glazing solutions. We handle projects of all scales — from small retail fit-outs to large commercial buildings — with the same attention to detail.",
+      "icon": "building",
+      "services": [
+        "Shopfront glass installation and repair",
+        "Office partitions and glass walls",
+        "Commercial door systems (automatic, pivot, swing)",
+        "Safety glazing compliance upgrades",
+        "High-rise and multi-residential glazing",
+        "Glass balustrades and handrail systems",
+        "Security glass and forced-entry resistant glazing"
+      ],
+      "idealFor": "Retail fit-outs, office interiors, building developers, property investors",
+      "benefits": [
+        "Minimal disruption to business",
+        "Efficient project management",
+        "Full compliance with standards",
+        "Professional execution",
+        "Experienced team"
+      ],
+      "whatsIncluded": [
+        "Project consultation and assessment",
+        "Detailed scope and quote",
+        "Supply of materials",
+        "Professional installation",
+        "Compliance documentation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "id": "testimonial-001",
+      "quote": "Fix and Glaze replaced all the windows in our home and the difference is incredible. Professional, tidy, and done on time. Couldn't recommend them more highly.",
+      "author": "Sarah M.",
+      "role": "Homeowner",
+      "location": "Bondi",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-002",
+      "quote": "We needed our shopfront glass repaired urgently after a break-in. Fix and Glaze had it sorted the same day. Outstanding service and very professional team.",
+      "author": "James T.",
+      "role": "Business Owner",
+      "location": "Surry Hills",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-003",
+      "quote": "From quote to completion, the whole process was seamless. The shower screen looks beautiful and transforms our bathroom. Great attention to detail.",
+      "author": "Priya K.",
+      "role": "Homeowner",
+      "location": "Neutral Bay",
+      "rating": 5
+    },
+    {
+      "id": "testimonial-004",
+      "quote": "Honest pricing, professional installation, and excellent communication throughout. Fix and Glaze is the contractor we call for all our projects.",
+      "author": "Michael R.",
+      "role": "Property Developer",
+      "location": "Sydney",
+      "rating": 5
+    }
+  ]
+}

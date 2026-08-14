@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ffffff;
+  color: #1f2937;
+  line-height: 1.6;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0891b2;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1e3a8a;
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 2px solid #0891b2;
+  outline-offset: 2px;
+}
+
+/* Smooth transitions */
+button,
+a {
+  transition: all 0.3s ease;
+}
+
+/* Utility classes */
+.container-max {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.section-padding {
+  padding: 4rem 1.5rem;
+}
+
+.gradient-cyan-navy {
+  background: linear-gradient(135deg, #0891b2 0%, #1e3a8a 100%);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #0891b2 0%, #dc2626 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.btn-primary {
+  @apply px-6 py-3 bg-brand-red text-white font-bold rounded-lg hover:bg-red-700 transition-colors;
+}
+
+.btn-secondary {
+  @apply px-6 py-3 bg-brand-cyan text-white font-bold rounded-lg hover:bg-cyan-700 transition-colors;
+}
+
+.btn-outline {
+  @apply px-6 py-3 border-2 border-brand-cyan text-brand-cyan font-bold rounded-lg hover:bg-brand-cyan hover:text-white transition-colors;
+}

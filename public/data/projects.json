@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": "project-001",
+      "slug": "residential-window-replacement-bondi",
+      "title": "Residential Window Replacement — Bondi",
+      "serviceType": "window-installation",
+      "location": "Bondi, NSW",
+      "clientType": "Residential",
+      "shortDescription": "Complete window replacement in 4-bedroom home",
+      "challenge": "Old timber frames were drafty, difficult to operate, and impacting the home's thermal performance",
+      "solution": "Installed matching aluminium frames with double glazing across 8 windows",
+      "result": "Home is noticeably warmer, quieter, and more secure. Improved street appeal",
+      "materials": ["Aluminium", "Double-glazed units"],
+      "images": [
+        "/images/projects/placeholder-before-1.jpg",
+        "/images/projects/placeholder-after-1.jpg"
+      ],
+      "date": "2024-01-15"
+    },
+    {
+      "id": "project-002",
+      "slug": "commercial-shopfront-glaze-surry-hills",
+      "title": "Commercial Shopfront Installation — Surry Hills",
+      "serviceType": "glass-installation",
+      "location": "Surry Hills, NSW",
+      "clientType": "Commercial",
+      "shortDescription": "Shopfront glass installation for new retail fit-out",
+      "challenge": "Retail space needed professional glazed shopfront to match design vision",
+      "solution": "Installed frameless glass panels with aluminium framing and swing entry door system",
+      "result": "Stunning modern storefront that increased visual appeal and customer foot traffic",
+      "materials": ["Frameless glass", "Aluminium", "Swing doors"],
+      "images": [
+        "/images/projects/placeholder-before-2.jpg",
+        "/images/projects/placeholder-after-2.jpg"
+      ],
+      "date": "2024-02-20"
+    },
+    {
+      "id": "project-003",
+      "slug": "frameless-shower-screen-installation-neutral-bay",
+      "title": "Frameless Shower Screen — Neutral Bay",
+      "serviceType": "glass-installation",
+      "location": "Neutral Bay, NSW",
+      "clientType": "Residential",
+      "shortDescription": "Bathroom renovation with frameless shower screen",
+      "challenge": "Outdated bathroom needed modern upgrade. Client wanted bright, open feel",
+      "solution": "Installed 10mm toughened frameless shower screen with brushed nickel fittings",
+      "result": "Bathroom transformed into spacious, luxurious retreat. Increased property appeal",
+      "materials": ["Toughened glass", "Brushed nickel fittings"],
+      "images": [
+        "/images/projects/placeholder-before-3.jpg",
+        "/images/projects/placeholder-after-3.jpg"
+      ],
+      "date": "2024-03-10"
+    },
+    {
+      "id": "project-004",
+      "slug": "emergency-glass-repair-break-in-darlinghurst",
+      "title": "Emergency Glass Repair — Break-in Damage",
+      "serviceType": "glass-repair",
+      "location": "Darlinghurst, NSW",
+      "clientType": "Residential",
+      "shortDescription": "Same-day emergency glass replacement after break-in",
+      "challenge": "Home window smashed during break-in. Property needed to be secure overnight",
+      "solution": "Attended within 2 hours. Installed temporary board-up. Replaced glass same day",
+      "result": "Property secured immediately. New glass installed professionally within 24 hours",
+      "materials": ["Toughened safety glass"],
+      "images": [
+        "/images/projects/placeholder-before-4.jpg",
+        "/images/projects/placeholder-after-4.jpg"
+      ],
+      "date": "2024-02-14"
+    },
+    {
+      "id": "project-005",
+      "slug": "office-glass-partition-installation-sydney-cbd",
+      "title": "Office Glass Partition — Sydney CBD",
+      "serviceType": "commercial-glazing",
+      "location": "Sydney CBD, NSW",
+      "clientType": "Commercial",
+      "shortDescription": "Custom glass partitions for modern office interior",
+      "challenge": "Growing tech company needed flexible office spaces with professional aesthetics",
+      "solution": "Installed frameless glass partition walls with frosted panels for privacy",
+      "result": "Modern, professional office layout. Improved natural light and collaboration spaces",
+      "materials": ["Frameless glass", "Frosted panels"],
+      "images": [
+        "/images/projects/placeholder-before-5.jpg",
+        "/images/projects/placeholder-after-5.jpg"
+      ],
+      "date": "2024-01-28"
+    }
+  ]
+}
