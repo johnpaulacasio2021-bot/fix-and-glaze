@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     "glass replacement",
   ],
   authors: [{ name: "Fix and Glaze" }],
+  icons: {
+    icon: "/favicon.png",
+  },
   openGraph: {
     type: "website",
     locale: "en_AU",

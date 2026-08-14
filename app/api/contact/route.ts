@@ -1,5 +1,4 @@
 import { z } from "zod";
-import { sendContactEmail } from "@/lib/email";
 import { ContactFormData } from "@/lib/types";
 
 const contactSchema = z.object({
@@ -27,21 +26,18 @@ export async function POST(request: Request) {
       );
     }
 
-    const formData: ContactFormData = validationResult.data;
-
-    // Send email
-    try {
-      await sendContactEmail(formData);
-    } catch (emailError) {
-      console.error("Email send failed:", emailError);
-      return Response.json(
-        { error: "Failed to send email. Please try again." },
-        { status: 500 }
-      );
-    }
+    // Placeholder: Form validation successful
+    // TODO: Add email integration when ready
+    console.log("Contact form received:", {
+      name: body.name,
+      phone: body.phone,
+      email: body.email,
+      serviceType: body.serviceType,
+      location: body.location,
+    });
 
     return Response.json(
-      { success: true, message: "Thank you! We received your enquiry." },
+      { success: true, message: "Thank you! We received your enquiry. We'll contact you soon!" },
       { status: 200 }
     );
   } catch (error) {

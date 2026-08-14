@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0891B2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E3A8A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad3)"/>
+  <rect x="80" y="40" width="240" height="220" fill="none" stroke="white" stroke-width="3"/>
+  <path d="M 200 40 Q 200 120 200 260" stroke="white" stroke-width="3" fill="none"/>
+  <circle cx="240" cy="150" r="8" fill="white"/>
+  <rect x="100" y="60" width="180" height="180" fill="rgba(255,255,255,0.1)"/>
+  <text x="200" y="280" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Door Installation</text>
+</svg>

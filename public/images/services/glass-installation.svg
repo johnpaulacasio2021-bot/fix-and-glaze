@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0891B2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1E3A8A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad2)"/>
+  <polygon points="100,80 300,80 280,220 120,220" fill="none" stroke="white" stroke-width="3"/>
+  <line x1="120" y1="120" x2="280" y2="120" stroke="rgba(255,255,255,0.5)" stroke-width="2"/>
+  <line x1="125" y1="160" x2="275" y2="160" stroke="rgba(255,255,255,0.5)" stroke-width="2"/>
+  <circle cx="200" cy="150" r="30" fill="rgba(220, 38, 38, 0.4)" stroke="white" stroke-width="2"/>
+  <text x="200" y="155" font-size="16" font-weight="bold" fill="white" text-anchor="middle">GLASS</text>
+  <text x="200" y="280" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Glass Installation</text>
+</svg>
