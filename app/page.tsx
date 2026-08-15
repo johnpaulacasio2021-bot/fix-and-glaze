@@ -88,21 +88,12 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Service Images Grid */}
+          {/* Service Cards */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
             {featuredServices.map((service) => (
-              <div key={service.id} className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow">
-                <div className="bg-gray-100 h-48 flex items-center justify-center">
-                  <img
-                    src={`/images/services/${service.id}.svg`}
-                    alt={service.title}
-                    className="w-full h-full object-cover"
-                  />
-                </div>
-                <div className="p-4">
-                  <h3 className="font-bold text-gray-900">{service.title}</h3>
-                  <p className="text-sm text-gray-600">{service.shortDescription}</p>
-                </div>
+              <div key={service.id} className="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-shadow">
+                <h3 className="font-bold text-gray-900">{service.title}</h3>
+                <p className="text-sm text-gray-600">{service.shortDescription}</p>
               </div>
             ))}
           </div>
