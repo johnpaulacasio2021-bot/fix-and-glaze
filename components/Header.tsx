@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Menu, X, Phone } from "lucide-react";
 import { BRAND, NAVIGATION } from "@/lib/constants";
 
@@ -12,10 +13,15 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white shadow-md">
       <div className="container-max flex items-center justify-between py-5">
         {/* Logo */}
-        <Link href="/" className="flex items-center gap-2">
-          <div className="w-10 h-10 bg-gradient-to-br from-red-500 to-red-600 rounded-full flex items-center justify-center">
-            <span className="text-white font-bold text-lg">◊</span>
-          </div>
+        <Link href="/" className="flex items-center gap-3">
+          <Image
+            src="/logo.png"
+            alt="Fix and Glaze logo"
+            width={50}
+            height={50}
+            priority
+            className="h-12 w-auto"
+          />
           <div className="hidden sm:block">
             <h1 className="font-bold text-lg text-gray-900">{BRAND.name}</h1>
             <p className="text-xs text-cyan-600 font-semibold">Repair. Replace. Refresh.</p>
