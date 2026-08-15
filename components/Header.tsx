@@ -17,10 +17,10 @@ export default function Header() {
           <Image
             src="/logo.png"
             alt="Fix and Glaze logo"
-            width={50}
-            height={50}
+            width={80}
+            height={80}
             priority
-            className="h-12 w-auto"
+            className="h-16 w-auto"
           />
           <div className="hidden sm:block">
             <h1 className="font-bold text-lg text-gray-900">{BRAND.name}</h1>
